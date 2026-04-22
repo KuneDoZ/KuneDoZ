@@ -1,12 +1,7 @@
-# ¡Hola! 👋
+# Hello!
 
-Mi nombre es Pol Anguita Morales, estudiante del doble grado en Ingeniería Informática de Gestión y Sistemas de Información y Diseño y Producción de Videojuegos en el TecnoCampus (Universitat Pompeu Fabra). Me apasiona combinar la lógica de la ingeniería con la creatividad del diseño para crear proyectos innovadores.
+I'm Pol Anguita Morales, a student at TecnoCampus (affiliated with Pompeu Fabra University) pursuing a double bachelor's degree in Computer Engineering for Management and Information Systems and in Game Design and Production. This program allows me to merge analytical problem-solving with the creative process of designing interactive experiences.
 
-## Sobre mí
+I enjoy developing software projects to explore new technologies and refine my skills. My work bridges technical and artistic domains, and I'm particularly interested in how engineering principles can support innovative design. Through both my studies and personal projects I aim to build robust solutions and engaging applications.
 
-- 🎓 Estudiante del doble grado en Ingeniería Informática de Gestión y Sistemas de Información / Diseño y Producción de Videojuegos.
-- 💻 Me encanta hacer programas por diversión y experimentar con nuevas tecnologías.
-- 🎮 Apasionado del mundo de los videojuegos, tanto en su diseño como en su desarrollo.
-- ✨ Siempre busco nuevos retos que me permitan aprender y crecer profesionalmente.
-
-Gracias por visitar mi perfil, ¡nos vemos en mis repositorios! 🚀
+Thank you for visiting my profile. Feel free to explore my repositories to see what I'm working on.
